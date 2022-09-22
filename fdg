@@ -1,0 +1,69 @@
+[33mcommit f6f155eeccb22c8fdea459c5fef7a33dc3c34bc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 16:27:06 2022 -0500
+
+    New Level 1/2/3 directory will be integrated to the dummy project
+
+[33mcommit 180ee59c6d0e0871587780e79d89b5a2e0037f55[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 16:23:38 2022 -0500
+
+    Whole Level1 directory is removed
+
+[33mcommit c3f51cc0ad8c9038a94f0347e547a516ce03da8f[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 15:59:08 2022 -0500
+
+    level 1 sub level2
+
+[33mcommit 3601dc3801cd76c8fa6e81718cf72a2cf95728c5[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 15:24:08 2022 -0500
+
+    Submiting a bunch of files using "git add ." command
+
+[33mcommit e0ac6df28cedc150bd9a013c85ef14f9c0c1b38b[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 14:50:27 2022 -0500
+
+    Second Revision
+
+[33mcommit 94c5a980c226b107828185a66a50b9e72f256cb3[m
+Author: renko27 <renko_27@hotmail.com>
+Date:   Tue Sep 20 13:03:16 2022 -0500
+
+    This is the second member revision
+
+[33mcommit 74ffc866441b5ac6ce0b6791438b5b825fd4c98e[m
+Author: renko27 <raul.elizalde.m@gmail.com>
+Date:   Tue Sep 20 11:49:18 2022 -0500
+
+    My first commit
+    testing adding a second line if it is reflected in the history file
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
